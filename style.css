@@ -22,3 +22,15 @@ h2{
     font-weight: bold;
     color: blue;
 }
+
+#brushes{
+    background-color:mediumspringgreen;
+}
+
+#frames{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue;
+}
